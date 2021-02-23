@@ -1,0 +1,19 @@
+{
+  "name": "angularapp",
+  "version": "1.0.0",
+  "description": "Angular App Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demirelfth/AngularTutorial.git"
+  },
+  "author": "Fatih Demirel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demirelfth/AngularTutorial/issues"
+  },
+  "homepage": "https://github.com/demirelfth/AngularTutorial#readme"
+}
